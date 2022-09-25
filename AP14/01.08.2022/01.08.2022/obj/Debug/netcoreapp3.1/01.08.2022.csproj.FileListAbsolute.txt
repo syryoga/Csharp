@@ -1,0 +1,14 @@
+D:\Visualstudio2019\AP14\01.08.2022\01.08.2022\bin\Debug\netcoreapp3.1\01.08.2022.exe
+D:\Visualstudio2019\AP14\01.08.2022\01.08.2022\bin\Debug\netcoreapp3.1\01.08.2022.deps.json
+D:\Visualstudio2019\AP14\01.08.2022\01.08.2022\bin\Debug\netcoreapp3.1\01.08.2022.runtimeconfig.json
+D:\Visualstudio2019\AP14\01.08.2022\01.08.2022\bin\Debug\netcoreapp3.1\01.08.2022.runtimeconfig.dev.json
+D:\Visualstudio2019\AP14\01.08.2022\01.08.2022\bin\Debug\netcoreapp3.1\01.08.2022.dll
+D:\Visualstudio2019\AP14\01.08.2022\01.08.2022\bin\Debug\netcoreapp3.1\01.08.2022.pdb
+D:\Visualstudio2019\AP14\01.08.2022\01.08.2022\obj\Debug\netcoreapp3.1\01.08.2022.csproj.AssemblyReference.cache
+D:\Visualstudio2019\AP14\01.08.2022\01.08.2022\obj\Debug\netcoreapp3.1\01.08.2022.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visualstudio2019\AP14\01.08.2022\01.08.2022\obj\Debug\netcoreapp3.1\01.08.2022.AssemblyInfoInputs.cache
+D:\Visualstudio2019\AP14\01.08.2022\01.08.2022\obj\Debug\netcoreapp3.1\01.08.2022.AssemblyInfo.cs
+D:\Visualstudio2019\AP14\01.08.2022\01.08.2022\obj\Debug\netcoreapp3.1\01.08.2022.csproj.CoreCompileInputs.cache
+D:\Visualstudio2019\AP14\01.08.2022\01.08.2022\obj\Debug\netcoreapp3.1\01.08.2022.dll
+D:\Visualstudio2019\AP14\01.08.2022\01.08.2022\obj\Debug\netcoreapp3.1\01.08.2022.pdb
+D:\Visualstudio2019\AP14\01.08.2022\01.08.2022\obj\Debug\netcoreapp3.1\01.08.2022.genruntimeconfig.cache
